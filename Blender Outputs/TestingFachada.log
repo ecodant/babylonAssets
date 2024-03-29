@@ -1,0 +1,37 @@
+Exporter version: 3.3.2, Blender version: 3.6.7
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  C:\Users\User\Desktop\Projects\Babylon Assets\Blender Outputs\
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently enabled collection
+	processing begun of mesh:  1415_Colisiones Apto Sin Acabados
+		processing begun of material:  default
+		num positions      :  299
+		num normals        :  299
+		num tangents       :  1196
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  192
+	processing begun of camera (UniversalCamera):  1415-c001
+	processing begun of camera (UniversalCamera):  1415-c002
+	processing begun of camera (UniversalCamera):  1415-c003
+	processing begun of camera (UniversalCamera):  1415-c005
+	processing begun of camera (UniversalCamera):  1415-c009
+	processing begun of camera (UniversalCamera):  1415-c004
+	processing begun of camera (UniversalCamera):  1415-c007
+	processing begun of camera (UniversalCamera):  1415-c006
+	processing begun of camera (UniversalCamera):  1415-c008
+========= Writing of JSON file started =========
+	writing mesh:  1415_Colisiones Apto Sin Acabados
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 0.142 secs
